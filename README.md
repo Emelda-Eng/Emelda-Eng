@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emelda-Eng
-- 👀 I’m interested in VR...
+- 👀 I’m interested in VR and AR
 - 🌱 I’m currently learning .VR..
-- 💞️ I’m looking to collaborate on .VR..
+- 💞️ I’m looking to collaborate on .VR and AR.
 - 📫 How to reach me .atienoemelda3@gmail.com..
 
 <!---
